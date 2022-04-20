@@ -51,7 +51,7 @@
 
 ## My Projects  📁
 
-- [**Dakiya**](https://dakiya.xyz): A secure p2p messaging platform and protocol built on ethereum and polygon
+- [**Clone-Web-3.0-Netflix**](https://github.com/jaroensakyod/Clone-Web-3.0-Netflix-by-Moralis-): Clone Netflix and edit by Javascript and protocol built on ethereum.
 - [**Instadao**](https://instadao.org): a one click dao and community token launcher built on ethereum
 - [**Metapass**](https://metapasshq.xyz): an nft ticketing platform built on polygon to token gate online and IRL events
 - [**MapMyDao**](https://mapmydao.vercel.app/): a neat app that allows DAO members to easily locate each other and share information about their DAO.
