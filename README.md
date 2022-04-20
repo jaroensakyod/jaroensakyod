@@ -8,13 +8,9 @@
 
 <div id="header">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/jaroensak-yodkantha/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
     <a href="https://www.canva.com/design/DAErLuGsOXc/himCsm4v4hsSEGnsjm_eOQ/view?utm_content=DAErLuGsOXc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
       <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge" alt="Resume Badge"/>
     </a>
-
 </div>
 
 - 🔭 I’m open for Blockchain Dev.
@@ -51,19 +47,23 @@
 
 ## My Projects  📁
 
-- [**Clone-Web-3.0-Netflix**](https://github.com/jaroensakyod/Clone-Web-3.0-Netflix-by-Moralis-): Clone Netflix and edit by Javascript and protocol built on ethereum.
-- [**Instadao**](https://instadao.org): a one click dao and community token launcher built on ethereum
-- [**Metapass**](https://metapasshq.xyz): an nft ticketing platform built on polygon to token gate online and IRL events
-- [**MapMyDao**](https://mapmydao.vercel.app/): a neat app that allows DAO members to easily locate each other and share information about their DAO.
-- **Fanvest**: a dapp that lets you mint movie ideas and movies as nfts and crowdfund them, built on polygon
+- [**Clone Web 3.0 Netflix**](https://github.com/jaroensakyod/Clone-Web-3.0-Netflix-by-Moralis-): Clone Netflix and edit by Javascript and protocol built on ethereum.
+- [**web3.0 GIF**](https://github.com/jaroensakyod/web3.0GIF): Build smart contract by Solidity and Web with vite and protocol built on ethereum.
+- [**End to End Data Pipeline onG oogle Cloud Platform**](https://github.com/jaroensakyod/End-to-End-Data-Pipeline-on-Google-Cloud-Platform): Build A pipe on GCP.
+- [**Employer Review about their organization on databricks**](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2743116062138803/4134819635362390/2316106991846514/latest.html): The Employer Review database contains some incorrect information.
+ - [**Blockchainkolab**](https://github.com/jaroensakyod/blockchainkolab): 
+   - Deploy Geo Tracking System for test ETH testnets.
+   - Deploy simple vote and connect with front-end web.
+   - Deploy simple bank by smart contracts from create ERC20 deposit, withdraw, calculate interest, pay dividends per year.
+<!-- - **Fanvest**: a dapp that lets you mint movie ideas and movies as nfts and crowdfund them, built on polygon
   - [Landing Page](https://fanvest.in)
-  - [Dapp](https://apha.fanvest.in)
+  - [Dapp](https://apha.fanvest.in) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anoushk77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anoushk77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anoushk-kharangate-6414481b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoushk-kharangate-6414481b8" height="30" width="40" /></a>
-  <a href="https://medium.com/@anoushk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anoushk" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/anoushk77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anoushk77" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/jaroensak-yodkantha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoushk-kharangate-6414481b8" height="30" width="40" /></a>
+  <a href="https://medium.com/@jaroensakyodkantha_654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anoushk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
