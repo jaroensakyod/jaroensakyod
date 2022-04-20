@@ -91,9 +91,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
    <a href="https://moralis.io/" target="_blank" rel="noreferrer"> <img src="https://moralis.io/wp-content/uploads/2021/07/bigicon_hero2.svg" alt="moralis" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<!--   <a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/38020273?s=280&v=4" alt="thegraph" width="60" height="60"/> </a>  -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/> </a> 
-  </p>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/> </a></p>
+
+  <!--   <a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/38020273?s=280&v=4" alt="thegraph" width="60" height="60"/> </a>  -->
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaroensakyod&show_icons=true&locale=en&layout=compact" alt="jaroensakyod" /></p>
 
