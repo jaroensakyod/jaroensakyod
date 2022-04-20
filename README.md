@@ -96,10 +96,8 @@
   <!--   <a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/38020273?s=280&v=4" alt="thegraph" width="60" height="60"/> </a>  -->
 
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaroensakyod&show_icons=true&locale=en" alt="jaroensakyod" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaroensakyod&show_icons=true&locale=en&layout=compact" alt="jaroensakyod" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaroensakyod&" alt="jaroensakyod" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaroensakyod&show_icons=true&locale=en" alt="jaroensakyod" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaroensakyod&" alt="jaroensakyod" /></p>
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaroensakyod&show_icons=true&locale=en&layout=compact" alt="jaroensakyod" /></p>
