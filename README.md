@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **Solana and blockchain**
 
--  🗣 My personality is that of a leader, I enjoy conversing with others, am gregarious, and enjoy teaching and sharing what I know. 
+- 🗣 My personality is that of a leader, I enjoy conversing with others, am gregarious, and enjoy teaching and sharing what I know. 
   
-- 🎉 Another thing that fascinates me are  Artificial Intelligence and the Blockchain.
+- ⚡ Another thing that fascinates me are  Artificial Intelligence and the Blockchain.
   
 - 📝 which has the potential to transport individuals to a different era of new history.
 
